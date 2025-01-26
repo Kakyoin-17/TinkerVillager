@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tinkervillager:scorch_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 14993848570,
+    "spacing": 40,
+    "separation": 6,
+    "type": "minecraft:random_spread"
+  }
+}

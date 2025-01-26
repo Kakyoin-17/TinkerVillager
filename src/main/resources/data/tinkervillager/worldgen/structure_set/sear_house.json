@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "tinkervillager:sear_house",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1499384857,
+    "spacing": 40,
+    "separation": 6,
+    "type": "minecraft:random_spread"
+  }
+}
